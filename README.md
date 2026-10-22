@@ -1,4 +1,13 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usgreenfox&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)![](https://github-readme-stats.vercel.app/api/top-langs/?username=usgreenfox&hide=VBA&layout=compact&theme=dark&hide_border=true)
+<h3 align="left">Hi</h3>
+
+- 🔭 I’m a web developer
+
+- 🌱 I’m currently learning Adobe Experience Manager
+
+<h3 align="left">Skills</h3>
+<p align="left">
+  <img alt="My skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=java,html,css,js,ts,react,docker,git,vscode" />
+</p>
 <!--
 **usgreenfox/usgreenfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
